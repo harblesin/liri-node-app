@@ -1,0 +1,106 @@
+
+==============================================================
+User used 'do-what-it-says', to use 'spotify-this-song' to search for
+"I Want it That Way"
+==============================================================
+User used 'movie-this' to search for
+
+==============================================================
+User used 'movie-this' to search for
+the matrix
+==============================================================
+User used 'spotify-this-song' to search for
+
+==============================================================
+User used 'spotify-this-song' to search for
+all the small things
+==============================================================
+User used 'concert-this' to search for
+
+==============================================================
+User used 'concert-this' to search for
+ariana grande
+==============================================================
+User used 'concert-this' to search for
+
+==============================================================
+User used 'concert-this' to search for
+ariana grande
+==============================================================
+User used 'spotify-this-song' to search for
+
+==============================================================
+User used 'spotify-this-song' to search for
+all the small things
+==============================================================
+User used 'movie-this' to search for
+
+==============================================================
+User used 'movie-this' to search for
+the matrix
+==============================================================
+User used 'do-what-it-says', to use 'spotify-this-song' to search for
+"I Want it That Way"
+==============================================================
+User used 'concert-this' to search for
+
+==============================================================
+User used 'concert-this' to search for
+ariana grande
+==============================================================
+User used 'spotify-this-song' to search for
+
+==============================================================
+User used 'spotify-this-song' to search for
+all the small things
+==============================================================
+User used 'movie-this' to search for
+
+==============================================================
+User used 'movie-this' to search for
+the matrix
+==============================================================
+User used 'do-what-it-says', to use 'spotify-this-song' to search for
+"I Want it That Way"
+==============================================================
+User used 'concert-this' to search for
+
+==============================================================
+User used 'concert-this' to search for
+ariana grande
+==============================================================
+User used 'spotify-this-song' to search for
+
+==============================================================
+User used 'spotify-this-song' to search for
+all the small things
+==============================================================
+User used 'movie-this' to search for
+
+==============================================================
+User used 'movie-this' to search for
+the matrix
+==============================================================
+User used 'do-what-it-says', to use 'spotify-this-song' to search for
+"I Want it That Way"
+==============================================================
+User used 'concert-this' to search for
+
+==============================================================
+User used 'concert-this' to search for
+ariana grande
+==============================================================
+User used 'spotify-this-song' to search for
+
+==============================================================
+User used 'spotify-this-song' to search for
+all the small things
+==============================================================
+User used 'movie-this' to search for
+
+==============================================================
+User used 'movie-this' to search for
+the matrix
+==============================================================
+User used 'do-what-it-says', to use 'spotify-this-song' to search for
+"I Want it That Way"
