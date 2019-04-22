@@ -18,14 +18,18 @@
         * to search and return more details about the film.
     4. do-what-it-says
         * this command will read a text file and perform whichever
-        * of the former methods are written inside of it
+        * of the former methods are written inside of it.
+
+2. In addition to performing these commands or actions, upon executing them, the
+    program will append the action and search the user chose in a separate .txt file,
+    logging all the information for any future use case.
 
 ## Examples
 
-<code> node liri.js concert-this weird al<br></code>
-<code> node liri.js spotify-this-song all the small things<br></code>
-<code> node liri.js movie-this the matrix<br></code>
-<code> node liri.js do-what-it-says</code>
+<code> node liri.js concert-this weird al<br>
+ node liri.js spotify-this-song all the small things<br>
+ node liri.js movie-this the matrix<br>
+ node liri.js do-what-it-says</code>
 
 ## Appearance in Bash
 
