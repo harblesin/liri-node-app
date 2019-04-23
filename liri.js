@@ -88,7 +88,7 @@ if (action == "do-what-it-says" || action == "spotify-this-song" ||
                     console.log("==============================================================");
                     console.log("Artist: " + response.tracks.items[9].album.artists[0].name);
                     console.log("Album: " + response.tracks.items[9].album.name);
-                    console.log("Song Sample URL: " + response.tracks.items[9].album.external_urls.spotify);
+                    console.log("Song Sample URL: " + response.tracks.items[9].preview_url);
                     console.log("==============================================================");
                 })
                 .catch(function (err) {
@@ -105,7 +105,7 @@ if (action == "do-what-it-says" || action == "spotify-this-song" ||
                     console.log("==============================================================");
                     console.log("Artist: " + response.tracks.items[0].album.artists[0].name);
                     console.log("Album: " + response.tracks.items[0].album.name);
-                    console.log("Song Sample URL: " + response.tracks.items[0].album.external_urls.spotify);
+                    console.log("Song Sample URL: " + response.tracks.items[0].preview_url);
                     console.log("==============================================================");
                 })
                 .catch(function (err) {
